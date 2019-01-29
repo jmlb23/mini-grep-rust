@@ -1,0 +1,9 @@
+[package]
+name = "grep"
+version = "0.1.0"
+authors = ["jmlb23 <rmmenosrf@riseup.net>"]
+edition = "2018"
+
+[dependencies]
+    regex = "1"
+    colored = "1.7"
